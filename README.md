@@ -8,7 +8,7 @@ The dashboard uses PivotTables, PivotCharts, slicers/filters, and Excel
 visualizations to turn historical Olympic data into an
 easy-to-understand interactive report.
 
-![Olympics Dashboard](assets/olympics-dashboard.png)
+
 
 ## 📊 Dashboard Overview
 
@@ -80,15 +80,7 @@ performance across different categories.
 -   Conditional formatting
 -   Dashboard formatting and design
 
-## 📁 Workbook Structure
 
-The Excel workbook is organized into the following main sections:
-
-  Sheet                        Purpose
-  ---------------------------- -----------------------------------
-  **Olympics Data**            Source Olympic dataset
-  **Pivot table & charts 1**   PivotTables and supporting charts
-  **Dashboard**                Final interactive dashboard
 
 ## 🔍 Key Insights
 
