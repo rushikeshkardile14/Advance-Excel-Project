@@ -8,7 +8,7 @@ The dashboard uses PivotTables, PivotCharts, slicers/filters, and Excel
 visualizations to turn historical Olympic data into an
 easy-to-understand interactive report.
 
-![Olympics Dashboard](assets/olympics-dashboard.png)
+
 
 ## 📊 Dashboard Overview
 
